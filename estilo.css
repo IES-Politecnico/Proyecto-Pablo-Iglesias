@@ -1,0 +1,7 @@
+div#tabla table {width:100%; border-collapse: collapse; background-color: rgba(255, 255, 0, 0.418);}
+div#tabla td{ border: 1px solid black;}
+div#microsoft { background-color: springgreen;}
+div#navegadores {background-color: steelblue;}
+div#redes_sociales {background-color: violet}
+div#twitter2 ul{ list-style-type: square;}
+div#titulo {background-color: rgb(247, 187, 76);}
