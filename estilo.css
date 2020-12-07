@@ -1,7 +1,13 @@
-div#tabla table {width:100%; border-collapse: collapse; background-color: rgba(255, 255, 0, 0.418);}
-div#tabla td{ border: 1px solid black;}
-div#microsoft { background-color: springgreen;}
-div#navegadores {background-color: steelblue;}
-div#redes_sociales {background-color: violet}
-div#twitter2 ul{ list-style-type: square;}
-div#titulo {background-color: rgb(247, 187, 76);}
+.tabla{background-color:rgba(185, 185, 30, 0.959);border:1px solid black;border-collapse:collapse;text-align:center;}
+.td{ border: 1px solid black; border-collapse: collapse; width: 100%;}
+.bordes { width: 100%; border-collapse: collapse;}
+#microsoft { background-color: rgb(45, 192, 119);}
+#navegadores {background-color: steelblue;}
+#redes_sociales {background-color: rgb(115, 101, 202);}
+.twitter2 { list-style-type: square;}
+#titulo_principal {background-color: rgb(247, 187, 76); text-align: center;}
+hr { width: 100%; border-color: black;}
+#pie { background-color: grey; text-align: center;}
+#navegacion { text-align: center; background-color: lightcoral}
+#main { background-color: rgb(116, 209, 252); text-align: center;}
+.titulo { text-align: center;}
